@@ -3,7 +3,7 @@ package shopping;
 public class Pair<E> {
   protected E left;
   protected E right;
-
+  
   public Pair(E left, E right) {
     this.left = left;
     this.right = right;
